@@ -8,4 +8,8 @@
 
 - I know the basics of programming languages like c, c++, java and python.
 
-MEME: https://i.pinimg.com/736x/94/52/2a/94522a03593a6d538647fcfc86471eb9.jpg
+## Term Project
+
+CIS641 term project is an e-commerce web application that helps the user purchase the products using various selections. Shows available items depending on the inventory, and the user can do a transaction to complete the order.
+
+To view the team github.io page code [click here]()
